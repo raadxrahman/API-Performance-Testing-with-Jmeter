@@ -1,4 +1,4 @@
-# Demo Throughput Testing with Jmeter
+# Demo API Throughput Testing with Jmeter
 
 ## Tools used
 - Apache Jmeter
